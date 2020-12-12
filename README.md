@@ -2,9 +2,10 @@
 ## 2. Binary trees:
 Представяме двоичните дървета със следната конструкция:
 _**(root left-tree right-tree)**_
+```Scheme
 ```diff
 - Binary tree
-(#d73a49 define tree
+(define tree
   '(1
       (2 () ())
       (3
@@ -32,3 +33,4 @@ _**(root left-tree right-tree)**_
        (11
         (12 () ())
         ()))))
+```
