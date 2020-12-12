@@ -4,8 +4,7 @@
 *(root left-tree right-tree)*
 
 ```diff
--(define example-tree
-```diff
+- (define example-tree
   '(1
       (2 () ())
       (3
