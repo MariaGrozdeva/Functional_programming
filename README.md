@@ -4,7 +4,7 @@
 _**(root left-tree right-tree)**_
 ```diff
 - Binary tree
-(define tree
+(#d73a49 define tree
   '(1
       (2 () ())
       (3
