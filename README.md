@@ -3,7 +3,7 @@
 Представяме двоичните дървета със следната конструкция:
 _**(root left-tree right-tree)**_
 ```Scheme
-* Binary tree
+Binary tree
 (define tree
   '(1
       (2 () ())
@@ -11,7 +11,7 @@ _**(root left-tree right-tree)**_
           (4 () ())
           (5 () ()))))
 
-* Binary search tree
+Binary search tree
 (define binary-search-tree
   '(3
       (1
@@ -21,7 +21,7 @@ _**(root left-tree right-tree)**_
           ()
           (5 () ()))))
 
-* Heap tree
+Heap tree
 (define heap-tree
     '(5
       (6
