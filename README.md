@@ -1,5 +1,5 @@
 ## 1. Lists
-## 2. Binary trees:
+## 2. Binary trees
 Представяме двоичните дървета със следната конструкция:
 _**(root left-tree right-tree)**_
 ```Scheme
